@@ -5,4 +5,4 @@ Writing
 
 ## Description
 This is my writing repository for all my writing (of my blog, other websites and so on).
-Feel free to take a look at the results on http://roelwillems.com .
+Feel free to take a look for most of the results on http://roelwillems.com .
